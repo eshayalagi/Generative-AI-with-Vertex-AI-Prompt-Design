@@ -36,5 +36,3 @@ Summary:
 | Coding assistants                   | Few-shot (to maintain logic and syntax) |
 
 ---
-
-Would you like me to help you design a **prompt template** for your chatbot or PDF analyzer next?
