@@ -17,20 +17,10 @@ Great! You're combining two important AI concepts: **how LLMs work (especially t
 
 ---
 
-### 📄 **PDF Analyzer Scenario**
-
-**Goal:** Extract summaries or Q\&A from a PDF.
-
 **Technique Used:**
 ✅ *Few-shot prompting* works best here because the structure of PDF text can vary, and you often want structured output like summaries, lists, or extracted data.
 
-> **Prompt (Few-shot)**
-
-```text
-Text: "This paper discusses the advantages of renewable energy..."
-Summary: "The paper highlights key benefits of renewable energy like sustainability and cost-efficiency."
-
-Text: "Artificial intelligence has rapidly grown, especially in NLP..."
+>
 Summary:
 ```
 
